@@ -45,5 +45,5 @@ Contributions are welcome! If you'd like to contribute:
 5. Open a pull request.
 
 ## Contact
-Aadi1220 - [GitHub]((https://github.com/Aadi1220))
+Aaditya Atri - `https://github.com/Aadi1220`
 
